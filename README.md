@@ -33,8 +33,10 @@ Basic Trend Analysis
 
 📂 Repository Structure
 
-Retail_Sales_Dashboard.xlsx – Final dashboard file
+Retail_Sales_Dataset.csv
 
-Retail_Sales_Dataset.csv – Raw dataset
+Retail Sales Analysis - Report.pdf
 
-dashboard_preview.png – Dashboard screenshot
+Dashboard.png
+
+Retail_Sales_Dataset - Dashboard.pdf
