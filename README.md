@@ -8,14 +8,13 @@ This project involves end-to-end analysis of 1,000 retail transactions to uncove
 
 🔍 Key Insights
 
-Electronics category generated the highest total revenue.
+• Revenue is evenly distributed across product categories (Electronics-34.4%, Beauty-31.5%, Clothing-34.1%).
 
-Female customers contributed 51.1% of overall sales.
+• Female customers contributed 51.1% of the majority sales.
 
-Mature age group showed the highest revenue contribution.
+• Mature & Adult age group showed the highest revenue contribution.
 
-May recorded the highest monthly sales, while September was the lowest.
-
+• May recorded the highest monthly sales, while the sales significatly drops in September.
 
 📈 Dashboard Preview
 
