@@ -32,10 +32,12 @@ Basic Trend Analysis
 
 📂 Repository Structure
 
-Retail_Sales_Dataset.csv
+Retail_Sales_Dataset (Original).csv
 
 Retail Sales Analysis - Report.pdf
 
 Dashboard.png
 
 Retail_Sales_Dataset - Dashboard.pdf
+
+Retail_Sales.csv
